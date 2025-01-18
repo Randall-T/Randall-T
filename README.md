@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Randall-T
 - 👀 I’m interested in backend software engineering
-- 🌱 I’m currently learning software engineering at ALX
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on backend engineering basics
 - 📫 How to reach me linkedin.com/in/randall-tetteh-kumah/
 
